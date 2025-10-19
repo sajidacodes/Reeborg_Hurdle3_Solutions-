@@ -27,5 +27,6 @@ Both solutions make Reeborg reach the goal by jumping over walls, but they use *
 
 ---
 
-👩‍💻 Created by *Sajda Chaaban Al-Maawi Al-Eidoudi*  
+👩‍💻 Created by *Sajda shaaban Al-Maawi Al-Eidoudi*  
+
 🎯 Goal: Practicing logical thinking and Python basics through Reeborg’s World challenges.
